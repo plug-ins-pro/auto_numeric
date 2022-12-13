@@ -1,0 +1,34 @@
+{
+  "name" : "UC AutoNumeric",
+  "version" : "22.1",
+  "description" : "Plug-ins Pro UC AutoNumeric is an Oracle APEX plug-in designed to enhance the look of any application by formatting numbers into your desired formats and currencies. In addition to formatting, the UC AutoNumeric plug-in also supports the coloring of text or number fields which improves your user's experience. The plug-in is built on top of the AutoNumeric.js library and uses NLS settings to detect database settings for ".," or ".,". ",
+  "keywords" : ["number","format","currency"],
+  "homepage" : "https://www.plug-ins-pro.com/",
+  "bugs" : {
+    "url" : "https://github.com/plug-ins-pro/auto-numeric/issues",
+    "email" : "support@plug-ins-pro.com"
+  },
+  "license" : "Commercial",
+  "commercial" : "No",
+  "commercially_supported":"Yes",  
+  "author" : {
+    "name" : "United Codes",
+    "email" : "info@plug-ins-pro.com",
+    "url" : "https://www.united-codes.com/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/plug-ins-pro/auto-numeric"
+  },
+ "oracle" : {
+    "versions" : ["12.x", "18.x", "19.x", "21.x"],
+    "apex" : {
+      "versions" : ["18.1.0", "19.2.0", "20.1.0", "20.2.0"],
+      "plugin" : {
+        "internalName" : "UNITEDCODES_AUTONUMERIC",
+        "type" : "item",
+        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/autonumeric/home",
+        "previewImage" : "https://www.plug-ins-pro.com/ords/r/pluginspro_web/703/files/static/v20/AutNumeric_final.gif"}
+    }
+  }
+}
