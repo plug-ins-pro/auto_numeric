@@ -1,7 +1,7 @@
 {
   "name" : "UC AutoNumeric",
   "version" : "22.1",
-  "description" : "Plug-ins Pro UC AutoNumeric is an Oracle APEX plug-in designed to enhance the look of any application by formatting numbers into your desired formats and currencies. In addition to formatting, the UC AutoNumeric plug-in also supports the coloring of text or number fields which improves your user's experience. The plug-in is built on top of the AutoNumeric.js library and uses NLS settings to detect database settings for ".," or ".,". ",
+  "description" : "Plug-ins Pro UC AutoNumeric is an Oracle APEX plug-in designed to enhance the look of any application by formatting numbers into your desired formats and currencies. In addition to formatting, the UC AutoNumeric plug-in also supports the coloring of text or number fields which improves your user's experience. The plug-in is built on top of the AutoNumeric.js library and uses NLS settings to detect database settings for ., or .,.",
   "keywords" : ["number","format","currency"],
   "homepage" : "https://www.plug-ins-pro.com/",
   "bugs" : {
